@@ -1,3 +1,7 @@
+.DS_Store
+magnolial/
+capnproto/
+
 bin
 tmp
 node_modules
